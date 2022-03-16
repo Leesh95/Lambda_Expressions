@@ -1,0 +1,15 @@
+C:\VisualStudio2022\C#\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.csproj.AssemblyReference.cache
+C:\VisualStudio2022\C#\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio2022\C#\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.AssemblyInfoInputs.cache
+C:\VisualStudio2022\C#\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.AssemblyInfo.cs
+C:\VisualStudio2022\C#\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.csproj.CoreCompileInputs.cache
+C:\VisualStudio2022\C#\Lambda_Expressions\bin\Debug\net6.0\Lambda_Expressions.exe
+C:\VisualStudio2022\C#\Lambda_Expressions\bin\Debug\net6.0\Lambda_Expressions.deps.json
+C:\VisualStudio2022\C#\Lambda_Expressions\bin\Debug\net6.0\Lambda_Expressions.runtimeconfig.json
+C:\VisualStudio2022\C#\Lambda_Expressions\bin\Debug\net6.0\Lambda_Expressions.dll
+C:\VisualStudio2022\C#\Lambda_Expressions\bin\Debug\net6.0\ref\Lambda_Expressions.dll
+C:\VisualStudio2022\C#\Lambda_Expressions\bin\Debug\net6.0\Lambda_Expressions.pdb
+C:\VisualStudio2022\C#\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.dll
+C:\VisualStudio2022\C#\Lambda_Expressions\obj\Debug\net6.0\ref\Lambda_Expressions.dll
+C:\VisualStudio2022\C#\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.pdb
+C:\VisualStudio2022\C#\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.genruntimeconfig.cache
